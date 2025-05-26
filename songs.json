@@ -1,0 +1,23 @@
+[
+  {
+    "title": "夜に駆ける",
+    "artist": "YOASOBI",
+    "emotion": "悲傷",
+    "language": "日文",
+    "genre": "流行",
+    "era": "2010年代至今",
+    "lyrics": "さよならだけだった...",
+    "youtube": "https://www.youtube.com/watch?v=x8VYWazR5mE"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "emotion": "悲傷",
+    "language": "英文",
+    "genre": "民謠",
+    "era": "2010年代至今",
+    "lyrics": "Never mind, I'll find someone like you...",
+    "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+  }
+  // 加更多歌曲
+]
