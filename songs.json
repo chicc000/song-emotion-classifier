@@ -1,22 +1,102 @@
 [
   {
-    "title": "夜に駆ける",
-    "artist": "YOASOBI",
+    "title": "一無所有",
+    "artist": "崔健",
     "emotion": "悲傷",
-    "language": "日文",
-    "genre": "流行",
-    "era": "2010年代至今",
-    "lyrics": "さよならだけだった...",
-    "youtube": "https://www.youtube.com/watch?v=x8VYWazR5mE"
+    "language": "中文",
+    "genre": "搖滾",
+    "era": "80年代",
+    "lyrics": "我曾經問個不休，你何時跟我走...",
+    "youtube": "https://www.youtube.com/watch?v=NAx-h7lSVXE"
   },
   {
-    "title": "Someone Like You",
-    "artist": "Adele",
-    "emotion": "悲傷",
+    "title": "Pride",
+    "artist": "High and Mighty Color",
+    "emotion": "愉悅",
+    "language": "日文",
+    "genre": "搖滾",
+    "era": "90年代",
+    "lyrics": "誇り高きこの魂を...",
+    "youtube": "https://www.youtube.com/watch?v=lETqVj-3ux4"
+  },
+  {
+    "title": "Hey Ya!",
+    "artist": "Outkast",
+    "emotion": "愉悅",
     "language": "英文",
-    "genre": "民謠",
+    "genre": "嘻哈",
+    "era": "2000年代",
+    "lyrics": "Hey ya! Hey ya!",
+    "youtube": "https://www.youtube.com/watch?v=RqIRp4QE-1k"
+  },
+  {
+    "title": "Lucifer",
+    "artist": "SHINee",
+    "emotion": "煩躁",
+    "language": "韓文",
+    "genre": "電子",
     "era": "2010年代至今",
-    "lyrics": "Never mind, I'll find someone like you...",
-    "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    "lyrics": "Her whisper is the Lucifer...",
+    "youtube": "https://www.youtube.com/watch?v=Dww9UjJ4Dt8"
+  },
+  {
+    "title": "Tears",
+    "artist": "X Japan",
+    "emotion": "悲傷",
+    "language": "日文",
+    "genre": "民謠",
+    "era": "90年代",
+    "lyrics": "何もかもが終わったように見えた...",
+    "youtube": "https://www.youtube.com/watch?v=tTNybXzqb-g"
+  },
+  {
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "emotion": "愉悅",
+    "language": "英文",
+    "genre": "電子",
+    "era": "2000年代",
+    "lyrics": "That that don't kill me, can only make me stronger...",
+    "youtube": "https://www.youtube.com/watch?v=3mwiO5st-us"
+  },
+  {
+    "title": "I Love You",
+    "artist": "2NE1",
+    "emotion": "悲傷",
+    "language": "韓文",
+    "genre": "電子",
+    "era": "2010年代至今",
+    "lyrics": "I love you, everyday...",
+    "youtube": "https://www.youtube.com/watch?v=LUrUPzLm5SI"
+  },
+  {
+    "title": "Move",
+    "artist": "Taemin",
+    "emotion": "愉悅",
+    "language": "韓文",
+    "genre": "電子",
+    "era": "2010年代至今",
+    "lyrics": "Move now, move now...",
+    "youtube": "https://www.youtube.com/watch?v=_cAskH1PtmQ"
+  },
+  {
+    "title": "The Chaser",
+    "artist": "Infinite",
+    "emotion": "煩躁",
+    "language": "韓文",
+    "genre": "電子",
+    "era": "2010年代至今",
+    "lyrics": "追いかけて、追いかけて...",
+    "youtube": "https://www.youtube.com/watch?v=cXo1nnjnt40"
+  },
+  {
+    "title": "Let Me Blow Ya Mind",
+    "artist": "Eve ft. Gwen Stefani",
+    "emotion": "愉悅",
+    "language": "英文",
+    "genre": "嘻哈",
+    "era": "2000年代",
+    "lyrics": "Let me blow ya mind...",
+    "youtube": "https://www.youtube.com/watch?v=Wt88GMJmVk0"
   }
 ]
