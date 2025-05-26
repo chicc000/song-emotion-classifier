@@ -38,34 +38,46 @@ else:
         st.success(f"系統判斷你的情緒為：**{user_emotion}**")
 
 if user_emotion:
-    # 先取得有值的語言、曲風、年代選項
-    languages = sorted({s.get("language", "其他") or "其他" for s in songs})
-    genres = sorted({s.get("genre", "其他") or "其他" for s in songs})
-    eras = sorted({s.get("era", "其他") or "其他" for s in songs})
+    language = st.selectbox("選擇歌曲語言", ["中文", "日文", "英文", "韓文"])
+    genre = st.selectbox("選擇曲風", ["流行", "搖滾", "嘻哈", "電子", "民謠", "爵士", "其他"])
 
-    language = st.selectbox("選擇歌曲語言", languages)
-    genre = st.selectbox("選擇曲風", genres)
-    era = st.selectbox("選擇年代", eras)
+    # 先從資料中抓所有有效年代(去除 None 或空值)
+    decades_available = sorted({s.get("decade") for s in songs if s.get("decade")})
+    if not decades_available:
+        decades_available = ["未知年代"]
+    era = st.selectbox("選擇年代", decades_available)
 
-    # 篩選資料時做好容錯
+    # 篩選資料，所有欄位都先用 get 避免 KeyError
     filtered_songs = [
         s for s in songs
         if s.get("emotion") == user_emotion
         and s.get("language") == language
         and s.get("genre") == genre
-        and s.get("era") == era
+        and s.get("decade") == era
     ]
 
     if filtered_songs:
         st.subheader("為你推薦的歌曲：")
         for song in random.sample(filtered_songs, min(5, len(filtered_songs))):
-            st.markdown(f"**{song.get('title', '未知歌曲')}** - *{song.get('artist', '未知歌手')}*  \n"
-                        f"風格：{song.get('genre', '未知')} | 年代：{song.get('era', '未知')}  \n"
-                        f"歌詞片段：{song.get('lyrics', '無歌詞')}")
-            video_url = song.get("youtube", "")
-            if video_url and (video_url.startswith("http://") or video_url.startswith("https://")):
-                st.video(video_url)
+            title = song.get("title", "未知曲名")
+            artist = song.get("artist", "未知歌手")
+            genre_ = song.get("genre", "未知曲風")
+            decade_ = song.get("decade", "未知年代")
+            lyrics = song.get("lyrics", "無歌詞資料")
+            preview_url = song.get("preview_url")
+
+            st.markdown(
+                f"**{title}** - *{artist}*  \n"
+                f"風格：{genre_} | 年代：{decade_}  \n"
+                f"歌詞片段：{lyrics}"
+            )
+
+            if preview_url:
+                try:
+                    st.video(preview_url)
+                except Exception:
+                    st.warning("影片連結無法播放")
             else:
-                st.text("無法顯示影片")
+                st.info("沒有提供影片連結")
     else:
         st.warning("找不到符合條件的歌曲，請試試其他選項～")
