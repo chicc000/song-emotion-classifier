@@ -1,0 +1,203 @@
+[
+  {
+    "title": "晴天",
+    "artist": "周杰倫",
+    "emotion": "愉悅",
+    "situation": "心情好時聽",
+    "preview_url": "https://www.youtube.com/watch?v=3t0zv6m46pQ",
+    "lyrics": "故事的小黃花 從出生那年就飄著",
+    "language": "中文",
+    "decade": "2000年代",
+    "genre": "流行"
+  },
+  {
+    "title": "Lemon",
+    "artist": "米津玄師",
+    "emotion": "悲傷",
+    "situation": "回憶過去",
+    "preview_url": "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
+    "lyrics": "夢ならばどれほどよかったでしょう",
+    "language": "日文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "emotion": "愉悅",
+    "situation": "派對氛圍",
+    "preview_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "lyrics": "The club isn't the best place to find a lover",
+    "language": "英文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "Dynamite",
+    "artist": "BTS",
+    "emotion": "愉悅",
+    "situation": "慶祝時刻",
+    "preview_url": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+    "lyrics": "'Cause I, I, I'm in the stars tonight",
+    "language": "韓文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "再見理想",
+    "artist": "伍佰",
+    "emotion": "憤怒",
+    "situation": "失望沮喪",
+    "preview_url": "https://www.youtube.com/watch?v=XYZ123abc",
+    "lyrics": "再見了我的理想 一切都已經改變",
+    "language": "中文",
+    "decade": "1990年代",
+    "genre": "搖滾"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "emotion": "憤怒",
+    "situation": "分手心情",
+    "preview_url": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+    "lyrics": "There's a fire starting in my heart",
+    "language": "英文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "emotion": "悲傷",
+    "situation": "失戀回憶",
+    "preview_url": "https://www.youtube.com/watch?v=TQ8WlA2GXbk",
+    "lyrics": "君とのラブストーリー",
+    "language": "日文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "See You Again",
+    "artist": "Wiz Khalifa feat. Charlie Puth",
+    "emotion": "悲傷",
+    "situation": "懷念故人",
+    "preview_url": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+    "lyrics": "It's been a long day without you, my friend",
+    "language": "英文",
+    "decade": "2010年代至今",
+    "genre": "嘻哈"
+  },
+  {
+    "title": "江南Style",
+    "artist": "PSY",
+    "emotion": "愉悅",
+    "situation": "舞蹈派對",
+    "preview_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "lyrics": "오빤 강남스타일",
+    "language": "韓文",
+    "decade": "2010年代至今",
+    "genre": "嘻哈"
+  },
+  {
+    "title": "匆匆那年",
+    "artist": "王菲",
+    "emotion": "悲傷",
+    "situation": "回憶青春",
+    "preview_url": "https://www.youtube.com/watch?v=jlZi4sErPkk",
+    "lyrics": "匆匆那年我們笑著哭著",
+    "language": "中文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "光輝歲月",
+    "artist": "Beyond",
+    "emotion": "愉悅",
+    "situation": "懷念美好時光",
+    "preview_url": "https://www.youtube.com/watch?v=ZCMHq_4eV5Q",
+    "lyrics": "風雨中抱緊自由",
+    "language": "中文",
+    "decade": "1990年代",
+    "genre": "搖滾"
+  },
+  {
+    "title": "紅蓮華",
+    "artist": "LiSA",
+    "emotion": "煩躁",
+    "situation": "想要突破困境",
+    "preview_url": "https://www.youtube.com/watch?v=wp43OdtAAkM",
+    "lyrics": "強くなれる理由を知った",
+    "language": "日文",
+    "decade": "2010年代至今",
+    "genre": "搖滾"
+  },
+  {
+    "title": "Can't Stop the Feeling!",
+    "artist": "Justin Timberlake",
+    "emotion": "愉悅",
+    "situation": "派對歡樂時刻",
+    "preview_url": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+    "lyrics": "I got that sunshine in my pocket",
+    "language": "英文",
+    "decade": "2010年代至今",
+    "genre": "流行"
+  },
+  {
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "emotion": "愉悅",
+    "situation": "想跳舞放鬆",
+    "preview_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "lyrics": "오빤 강남스타일",
+    "language": "韓文",
+    "decade": "2010年代至今",
+    "genre": "嘻哈"
+  },
+  {
+    "title": "夜曲",
+    "artist": "周杰倫",
+    "emotion": "悲傷",
+    "situation": "孤獨的夜晚",
+    "preview_url": "https://www.youtube.com/watch?v=C4Q_O4B5jSc",
+    "lyrics": "你哭得那麼委屈 是我沒有保護你",
+    "language": "中文",
+    "decade": "2000年代",
+    "genre": "流行"
+  },
+  {
+    "title": "Fly Me to the Moon",
+    "artist": "Frank Sinatra",
+    "emotion": "愉悅",
+    "situation": "浪漫時刻",
+    "preview_url": "https://www.youtube.com/watch?v=ZEcqHA7dbwM",
+    "lyrics": "Fly me to the moon, let me play among the stars",
+    "language": "英文",
+    "decade": "1960年代",
+    "genre": "爵士"
+  },
+  {
+    "title": "愛拼才會贏",
+    "artist": "葉啟田",
+    "emotion": "愉悅",
+    "situation": "鼓勵自己努力",
+    "preview_url": "https://www.youtube.com/watch?v=7wFnNUS5gIc",
+    "lyrics": "風雨中抱緊自由",
+    "language": "中文",
+    "decade": "1980年代",
+    "genre": "民謠"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "emotion": "煩躁",
+    "situation": "情緒複雜時",
+    "preview_url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+    "lyrics": "Is this the real life? Is this just fantasy?",
+    "language": "英文",
+    "decade": "1970年代",
+    "genre": "搖滾"
+  },
+  {
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+   
